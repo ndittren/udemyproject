@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udemyproject/static/css/main.f36fd746.chunk.css",
+    "main.js": "/udemyproject/static/js/main.41fa1a0a.chunk.js",
+    "main.js.map": "/udemyproject/static/js/main.41fa1a0a.chunk.js.map",
+    "runtime~main.js": "/udemyproject/static/js/runtime~main.9c135f23.js",
+    "runtime~main.js.map": "/udemyproject/static/js/runtime~main.9c135f23.js.map",
+    "static/js/2.296b3f3e.chunk.js": "/udemyproject/static/js/2.296b3f3e.chunk.js",
+    "static/js/2.296b3f3e.chunk.js.map": "/udemyproject/static/js/2.296b3f3e.chunk.js.map",
+    "index.html": "/udemyproject/index.html",
+    "precache-manifest.a9ad565b0d04d5368915cf72e48c3deb.js": "/udemyproject/precache-manifest.a9ad565b0d04d5368915cf72e48c3deb.js",
+    "service-worker.js": "/udemyproject/service-worker.js",
+    "static/css/main.f36fd746.chunk.css.map": "/udemyproject/static/css/main.f36fd746.chunk.css.map"
+  }
+}
